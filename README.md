@@ -30,7 +30,7 @@ To-do list:
 - [ ] Add a PUT route for updating quotes in the data. 
 - [ ] Add a DELETE route for deleting quotes from the data array.
 - [ ] Add other data to the array, such as the year of each quote, and try to display it on the front-end.
-- [ ] Add another resource to your API in addition to quotes, such as biographical blurbs
+- [ ] Add another resource to the API in addition to quotes, such as biographical blurbs
 
 ## Status
 Project is: _in progress_.
